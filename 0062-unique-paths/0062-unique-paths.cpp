@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int solve(int r, int c, int m, int n, vector <vector<int>>& dp) {
+        if(r >= m || c >= n) return 0;
+
+        if(r == m - 1 && c == n - 1)
+            return 1;
+        if(dp[r][c]!=-1){ return dp[r][c]; }
+
+
+        int down = solve(r + 1, c, m, n,dp);
+        int right = solve(r, c + 1, m, n,dp);
+
+        return dp[r][c]=down + right;
+    }
+
+    int uniquePaths(int m, int n) {
+
+        // if(m<0 || n<0) return 0;
+
+        // if(m == 1&& n == 1)
+        //     return 1;
+
+        // int down = uniquePaths(m-1,n);
+        // int right = uniquePaths( m,n-1);
+        // return down + right;
+        vector <vector<int>> dp(m+5 , vector<int>(n+5, -1));
+        return solve(0,0,m,n,dp); 
+    }
+};
