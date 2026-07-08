@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
+| [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
 ## Matrix
 |  |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
