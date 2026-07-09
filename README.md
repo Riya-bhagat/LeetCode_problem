@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0741-cherry-pickup) |
 ## Combinatorics
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0741-cherry-pickup) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
+| [0741-cherry-pickup](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0741-cherry-pickup) |
 ## Greedy
 |  |
 | ------- |
