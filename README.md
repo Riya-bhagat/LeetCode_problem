@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
 | [0741-cherry-pickup](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0741-cherry-pickup) |
 ## Greedy
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
