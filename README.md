@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
@@ -49,9 +50,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0217-contains-duplicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
