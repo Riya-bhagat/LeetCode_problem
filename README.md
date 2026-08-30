@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0217-contains-duplicate) |
 | [0518-coin-change-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0741-cherry-pickup) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
