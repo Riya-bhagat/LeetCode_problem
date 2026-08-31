@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0063-unique-paths-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
