@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0189-rotate-array) |
 | [3870-count-commas-in-range](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/3870-count-commas-in-range) |
@@ -77,5 +78,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Riya-bhagat/LeetCode_problem/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
